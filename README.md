@@ -7,7 +7,10 @@
 1. Asegúrate de tener Python 3 instalado en tu sistema.
 
 2. Instala las bibliotecas Python necesarias ejecutando el siguiente comando:
- ´pip install -r requirements.txt´
+```sh
+  pip install -r requirements.txt
+  ```
+ 
 
  
 ### Instalación de ffmpeg
